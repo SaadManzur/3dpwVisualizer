@@ -1,5 +1,7 @@
 # 3DPW Visualizer
 
+![](sample.gif)
+
 A simple bare minimum 14 jnts visualizer for 3DPW dataset.
 
 ## Arguments
